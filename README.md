@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Numpy, Pandas, Machine Learning, Deep Learning**
 
-- 📫 How to reach me **sohailjatt0101@gmail.com**
+- 📫 How to reach me **mohd.sohail00101@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d6viSVXpH8I00G3ymiCkiP5sWkkMvE1-/view?usp=drive_link](https://drive.google.com/file/d/1d6viSVXpH8I00G3ymiCkiP5sWkkMvE1-/view?usp=drive_link)
 
